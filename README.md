@@ -6,6 +6,8 @@ I have used two methodologies for this classification.
 <br>
 ## References
 **Krish Naik Youtube Video on Keras Tuner**:- https://www.youtube.com/watch?v=Lx16T9cl5ng
+<br>
+<br>
 **1) CNN Using Keras Tuner**
 <br>
 I used **Keras tuner** for hyperparamter tuning and created a very simple convolutional neural network having only two convolutional layers and two dense layers.
